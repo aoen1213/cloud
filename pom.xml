@@ -8,5 +8,9 @@
   
   <modules>
   	<module>Eureka</module>
+  	<module>Gateway</module>
   </modules>
+  
+  
+  <dependencies></dependencies>
 </project>
