@@ -1,5 +1,11 @@
 Manifest-Version: 1.0
+Implementation-Title: Eureka
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: wd
+Implementation-Vendor-Id: SpringCloud
 Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/SpringCloud/
+ Eureka/
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
