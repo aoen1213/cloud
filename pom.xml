@@ -13,6 +13,7 @@
 		<module>Gateway</module>
 		<module>Config</module>
 		<module>customer_service</module>
+		<module>customer-service</module>
 	</modules>
 
 
